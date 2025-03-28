@@ -1,3 +1,5 @@
-## FOREVER
+# Build and Deploy a Full Stack E-Commerce App with an Admin Dashboard & CMS in 2024 | Next 14, Stripe
+![e-commerce](https://i.ibb.co/Y3Hsth3/YT-Thumbnails-3.png)
 
-FOREVER is a modern e-commerce platform dedicated to women’s fashion, offering a seamless shopping experience with a stylish and user-friendly interface. The website will feature a curated collection of trendy and timeless clothing, secure payment options, and a smooth checkout process. Designed with scalability and performance in mind, FOREVER will provide an engaging and intuitive shopping experience for customers.
+### [🌟 Become a top 1% Next.js developer in only one course](https://jsmastery.pro/next15)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
