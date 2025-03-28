@@ -1,0 +1,3 @@
+## FOREVER
+
+FOREVER is a modern e-commerce platform dedicated to women’s fashion, offering a seamless shopping experience with a stylish and user-friendly interface. The website will feature a curated collection of trendy and timeless clothing, secure payment options, and a smooth checkout process. Designed with scalability and performance in mind, FOREVER will provide an engaging and intuitive shopping experience for customers.
